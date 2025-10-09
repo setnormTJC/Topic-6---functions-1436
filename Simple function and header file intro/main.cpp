@@ -12,10 +12,9 @@
 #include<iomanip> 
 
 
-
-
 int main()
 {
+	//
 	//std::cout << a << "\n";
 
 	//int a = 123; 
