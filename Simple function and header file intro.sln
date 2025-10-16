@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The a s c 2 assignment", "T
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demoing keyword auto", "Demoing keyword auto\Demoing keyword auto.vcxproj", "{CFD72360-E704-4AA1-AFE6-08C5E7D1201B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mystery project", "Mystery project\Mystery project.vcxproj", "{7CA77B16-799B-4E83-B664-4DC6070AD93B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{CFD72360-E704-4AA1-AFE6-08C5E7D1201B}.Release|x64.Build.0 = Release|x64
 		{CFD72360-E704-4AA1-AFE6-08C5E7D1201B}.Release|x86.ActiveCfg = Release|Win32
 		{CFD72360-E704-4AA1-AFE6-08C5E7D1201B}.Release|x86.Build.0 = Release|Win32
+		{7CA77B16-799B-4E83-B664-4DC6070AD93B}.Debug|x64.ActiveCfg = Debug|x64
+		{7CA77B16-799B-4E83-B664-4DC6070AD93B}.Debug|x64.Build.0 = Debug|x64
+		{7CA77B16-799B-4E83-B664-4DC6070AD93B}.Debug|x86.ActiveCfg = Debug|Win32
+		{7CA77B16-799B-4E83-B664-4DC6070AD93B}.Debug|x86.Build.0 = Debug|Win32
+		{7CA77B16-799B-4E83-B664-4DC6070AD93B}.Release|x64.ActiveCfg = Release|x64
+		{7CA77B16-799B-4E83-B664-4DC6070AD93B}.Release|x64.Build.0 = Release|x64
+		{7CA77B16-799B-4E83-B664-4DC6070AD93B}.Release|x86.ActiveCfg = Release|Win32
+		{7CA77B16-799B-4E83-B664-4DC6070AD93B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
