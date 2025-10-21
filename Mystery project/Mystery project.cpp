@@ -36,10 +36,5 @@ int main()
 		}
 	}
 
-
-	//	if (enteredPassword == correctPassword)
-	//	{
-	//		//then display file contents
-	//	}
 }
 
