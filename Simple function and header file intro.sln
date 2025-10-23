@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "One student submission of a
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StartingScrabble", "StartingScrabble\StartingScrabble.vcxproj", "{4C36C2BE-E00C-491C-BB57-6A79B1F686CB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Simple function example", "Simple function example\Simple function example.vcxproj", "{5F01567D-F880-4835-8887-BB49180C6B1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{4C36C2BE-E00C-491C-BB57-6A79B1F686CB}.Release|x64.Build.0 = Release|x64
 		{4C36C2BE-E00C-491C-BB57-6A79B1F686CB}.Release|x86.ActiveCfg = Release|Win32
 		{4C36C2BE-E00C-491C-BB57-6A79B1F686CB}.Release|x86.Build.0 = Release|Win32
+		{5F01567D-F880-4835-8887-BB49180C6B1E}.Debug|x64.ActiveCfg = Debug|x64
+		{5F01567D-F880-4835-8887-BB49180C6B1E}.Debug|x64.Build.0 = Debug|x64
+		{5F01567D-F880-4835-8887-BB49180C6B1E}.Debug|x86.ActiveCfg = Debug|Win32
+		{5F01567D-F880-4835-8887-BB49180C6B1E}.Debug|x86.Build.0 = Debug|Win32
+		{5F01567D-F880-4835-8887-BB49180C6B1E}.Release|x64.ActiveCfg = Release|x64
+		{5F01567D-F880-4835-8887-BB49180C6B1E}.Release|x64.Build.0 = Release|x64
+		{5F01567D-F880-4835-8887-BB49180C6B1E}.Release|x86.ActiveCfg = Release|Win32
+		{5F01567D-F880-4835-8887-BB49180C6B1E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
